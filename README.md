@@ -7,7 +7,7 @@ This is a Hogwarts/Harry Potter inspired introduction app that allows users to i
 
 App Walk-through:
 
-https://gfycat.com/vengefulfatalfossa
+https://gfycat.com/vengefulfatalfossa.gif
 
 Required Features:
 
